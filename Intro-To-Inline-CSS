@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>inline css</title>
+	<link rel="stylesheet" href="">
+</head>
+<body>
+	<strong><p style="text-align: center;background-color: black;color: white;font-size: 50px">This slide resemble to indian flag</p></strong>
+		<section>
+			<div>
+				<p style="text-align:center;background-color:orange;color: white;font-size: 30px;">
+				///This is  Saffron colour, indicating the strength and courage of the country///
+				</p>
+			</div>	
+		</section>
+		
+		<section>
+		<div>
+			<p style="text-align: center;background-color: white;color: black;font-size: 30px">
+				///The middle band indicates peace and truth with Dharma Chakra///
+			</p>
+		</div>	
+
+		</section>
+		
+		<section>
+		<div>
+			<p style="text-align: center;background-color: green;color: white;font-size: 30px">
+				///This color shows the fertility, growth and auspiciousness of the land.///
+			</p>
+		</div>	
+		</section>
+
+		
+</body>
+</html>
